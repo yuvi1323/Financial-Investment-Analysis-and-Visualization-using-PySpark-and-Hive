@@ -1,2 +1,2 @@
 # Financial Investment Analysis and Visualization using PySpark and Hive
-Building a new ar vr project and it goes this way
+To make smart financial decisions by analyzing the investment data using different advanced techniques like PySpark and Hive we can process large amounts of data very quickly and efficiently. This analysis can give a brief idea about the investment area and show where money can be invested. Visualizing those things in graphs and charts and those insights give better investment choices to investors. Ultimately the final goal of the project is to help individuals make more informed decisions and achieve more financial success.
